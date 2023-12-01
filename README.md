@@ -6,7 +6,7 @@ Login: admin <br>
 Password: admin<br>
 
 # Screenshots
-<img src="https://github.com/byteWizard07/www/blob/main/screenshots/99-banner.png">
+<img src="https://github.com/KushagraS17/www/blob/main/screenshots/99-banner.png">
 Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/byteWizard07/www/tree/main/screenshots">click here</a>
 
 # Technologies Used
@@ -35,8 +35,7 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 </ol>
 
 # Authors
-## Amit Kumar
+## Kushagra Sharma
 <ul>
-<li>Github:https://github.com/byteWizard07</li>
-<li>LinkedIn:https://www.linkedin.com/in/amit-kumar-0874b7217/</li>
+<li>Github:https://github.com/KushagraS17</li>
 </ul>
