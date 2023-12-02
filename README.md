@@ -6,7 +6,7 @@ Login: admin <br>
 Password: admin<br>
 
 # Screenshots
-<img src="https://github.com/KushagraS17/online-food-ordering-app/blob/main/screenshots/1-home-page.png">
+<img src="https://github.com/KushagraS17/online-food-ordering-app/blob/main/screenshots/99-banner.png">
 Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/KushagraS17/online-food-ordering-app/tree/main/screenshots">click here</a>
 
 # Technologies Used
